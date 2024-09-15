@@ -1,9 +1,7 @@
 .fakenews {
-  background-color:blue;
+  background:blue;
   height:100vh;
   width:80%;
-  left:10%;
-  right:10%;
   border-radius:15px;
 }
 
