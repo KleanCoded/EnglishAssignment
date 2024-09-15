@@ -1,3 +1,12 @@
+.fakenews {
+  background-color:#0082e6;
+  height:20vh;
+  width:80%;
+  left:10%;
+  right:10%;
+  border-radius:15px;
+}
+
 *{
   padding: 0;
   margin: 0;
