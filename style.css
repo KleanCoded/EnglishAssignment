@@ -11,6 +11,13 @@
   padding:3px;
 }
 
+.flyingelevatorimg {
+  padding:5px;
+  margin:0;
+  align-items:left;
+}
+
+
 *{
   padding: 0;
   margin: 0;
