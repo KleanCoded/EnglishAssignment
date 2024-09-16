@@ -6,6 +6,11 @@
   margin:auto;
 }
 
+.fakenews p{
+  margin:0;
+  padding:3px;
+}
+
 *{
   padding: 0;
   margin: 0;
