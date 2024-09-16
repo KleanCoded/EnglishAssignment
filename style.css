@@ -104,12 +104,7 @@ a.active,a:hover{
 
 /*Sections*/
 
-section{
-  background: url(bg1.jpg) no-repeat;
-  background-size: cover;
-  height:300vh;
-  background-color:lightblue;
-}
+
 
 p2 {
   font-size:42px;
