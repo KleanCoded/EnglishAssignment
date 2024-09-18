@@ -6,6 +6,10 @@
   margin:auto;
 }
 
+body {
+  background-color:#b5edf5;
+}
+
 .fakenews p{
   margin:0;
   padding:10px;
